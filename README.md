@@ -234,8 +234,8 @@ NOTE:
 ***
 
 ## c. Other things this repository comes with 
-- **Important:** [Getting Help](getting-help.md)
-- [Contact Me](contact-me.md)
+- **Important:** [Getting Help](Repository Markups/getting-help.md)
+- [Contact Me](Repository Markups/contact-me.md)
 
 ### 1) How can I thank you for writing and sharing this project?
 
@@ -255,6 +255,6 @@ I'm  [Yogesh S](https://github.com/yogeshcenation).  and I have coded the projec
 <a href="https://www.buymeacoffee.com/yogeshcenation" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50px" width="170px" ></a>
 ***
 If you have trouble with this project please [tell me about
-it,](./contact-me.md) and I'll make this project better. If you
+it,](Repository Markups/contact-me.md) and I'll make this project better. If you
 like this project, please [give it a
-star](./README.md#1-how-can-i-thank-you-for-writing-and-sharing-this-project).
+star](README.md-how-can-i-thank-you-for-writing-and-sharing-this-project).

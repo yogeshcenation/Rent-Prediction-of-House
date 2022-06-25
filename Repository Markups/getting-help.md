@@ -20,4 +20,4 @@ Personally, I've never asked a question on any of these sites.
 If you have trouble with this project , Please [tell me about
 it](./contact-me.md) and I'll make this project better. If you
 like this project, please [give it a
-star](./README.md#how-can-i-thank-you-for-writing-and-sharing-this-tutorial).
+star](../README.md#how-can-i-thank-you-for-writing-and-sharing-this-tutorial).

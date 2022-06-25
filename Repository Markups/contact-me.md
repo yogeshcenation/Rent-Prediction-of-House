@@ -16,4 +16,4 @@ it, there are a few ways to contact me:
 If you have trouble with this project , Please [tell me about
 it](./contact-me.md) and I'll make this project better. If you
 like this project, please [give it a
-star](./README.md#1-how-can-i-thank-you-for-writing-and-sharing-this-project).
+star](../README.md#1-how-can-i-thank-you-for-writing-and-sharing-this-project).
